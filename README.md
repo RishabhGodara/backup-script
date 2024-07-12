@@ -1,6 +1,6 @@
 # Backup Script
 
-This script creates a backup of a specified file or directory and uploads it to OneDrive using rclone.
+This bash script creates a backup of a specified file or directory and uploads it to OneDrive using rclone.
 
 ## Prerequisites
 
@@ -16,6 +16,7 @@ This script creates a backup of a specified file or directory and uploads it to 
 2.Ensure that rclone is properly configured 
   ```bash
   rclone config
+```
 3.Run the script
   ```bash
 ./backup_script.sh
