@@ -11,7 +11,7 @@ This bash script creates a backup of a specified file or directory and uploads i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/backup-script.git
+   git clone https://github.com/RishabhGodara/backup-script.git
    cd backup-script
 2.Ensure that rclone is properly configured 
   ```bash
